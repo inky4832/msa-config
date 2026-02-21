@@ -5,8 +5,8 @@ accounts:
   message: "accounts.message값은 accounts dev53"
   contactDetails:
     name: "홍길동"
-
     email: "hong@example.com"
+
 
 
 
