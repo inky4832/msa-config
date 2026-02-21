@@ -1,0 +1,8 @@
+build:
+  version: "1.0"
+
+accounts:
+  message: "accounts.message값은 accounts default"
+  contactDetails:
+    name: "홍길동"
+    email: "hong@example.com"

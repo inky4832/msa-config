@@ -1,0 +1,8 @@
+build:
+  version: "3.0"
+
+loans:
+  message: "loans.message값은 loans prod"
+  contactDetails:
+    name: "홍길동"
+    email: "hong@example.com"

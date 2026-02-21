@@ -1,0 +1,8 @@
+build:
+  version: "1.0"
+
+cards:
+  message: "cards.message값은 cards default"
+  contactDetails:
+    name: "홍길동"
+    email: "hong@example.com"

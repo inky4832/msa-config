@@ -1,0 +1,8 @@
+build:
+  version: "3.0"
+
+cards:
+  message: "cards.message값은 cards prod"
+  contactDetails:
+    name: "홍길동"
+    email: "hong@example.com"
