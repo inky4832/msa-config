@@ -2,7 +2,8 @@ build:
   version: "2.0"
 
 accounts:
-  message: "accounts.message값은 accounts dev"
+  message: "accounts.message값은 accounts dev2"
   contactDetails:
     name: "홍길동"
+
     email: "hong@example.com"
