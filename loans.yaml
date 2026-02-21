@@ -2,7 +2,8 @@ build:
   version: "1.0"
 
 loans:
-  message: "loans.message값은 loans default"
+  message: "loans.message값은 loans default2"
   contactDetails:
     name: "홍길동"
+
     email: "hong@example.com"
