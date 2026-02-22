@@ -4,7 +4,7 @@ build:
 loans:
   message: "loans.message값은 loans dev"
   contactDetails:
-    name: "홍길동7777"
+    name: "홍길동555"
 
     email: "hong@example.com"
 
