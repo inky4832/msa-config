@@ -4,7 +4,7 @@ build:
 accounts:
   message: "accounts.message값은 accounts dev535567"
   contactDetails:
-    name: "홍길동88"
+    name: "홍길동77"
     # email: "hong@example.com"
     email: "{cipher}c8c97a8273f86f34a01235b038eec0964ff0152dba05f0e0fd02ce06c4b4980fa1070979af486192e9f9a55d78f5a255"
 
