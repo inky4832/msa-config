@@ -4,7 +4,7 @@ build:
 cards:
   message: "cards.message값은 cards dev2"
   contactDetails:
-    name: "홍길동88"
+    name: "홍길동77"
 
     email: "hong@example.com"
 
